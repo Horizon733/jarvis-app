@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.llama.lib-release-17:/values-fi/values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\disha\\.gradle\\caches\\transforms-4\\38d686aaa2fc4a9598548e5be2c55d6e\\transformed\\core-1.13.1\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,351,456,561,673,789",
+                        "endColumns": "95,101,97,104,104,111,115,100",
+                        "endOffsets": "146,248,346,451,556,668,784,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.llama.lib-mergeReleaseResources-15:/values-fi/values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\disha\\.gradle\\caches\\transforms-4\\38d686aaa2fc4a9598548e5be2c55d6e\\transformed\\core-1.13.1\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,351,456,561,673,789",
+                        "endColumns": "95,101,97,104,104,111,115,100",
+                        "endOffsets": "146,248,346,451,556,668,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

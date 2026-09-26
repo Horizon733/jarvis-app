@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml:2:13-83
+INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml:2:13-83
+	package
+		INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml
+	xmlns:android
+		ADDED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml:2:23-81
+uses-sdk
+INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml reason: use-sdk injection requested
+INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml
+INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml
+	android:targetSdkVersion
+		INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml
+	android:minSdkVersion
+		INJECTED from D:\code\aiagent\lib\build\intermediates\tmp\ProcessLibraryManifest\release\tempAndroidManifest10910035340281887120.xml

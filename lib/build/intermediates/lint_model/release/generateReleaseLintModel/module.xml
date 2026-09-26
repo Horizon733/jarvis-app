@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\code\aiagent\lib"
+    name=":lib"
+    type="LIBRARY"
+    maven="ai-agent:lib:unspecified"
+    agpVersion="8.5.2"
+    buildFolder="build"
+    bootClassPath="D:\programs\Android\sdk\platforms\android-34\android.jar;D:\programs\Android\sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

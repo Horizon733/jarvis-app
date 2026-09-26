@@ -1,0 +1,15 @@
+-- llama.cpp version: 0.4.0-dev
+-- Setting GGML_NATIVE_DEFAULT to OFF
+-- Warning: ccache not found - consider installing it for faster compilation or disable this warning with GGML_CCACHE=OFF
+-- CMAKE_SYSTEM_PROCESSOR: aarch64
+-- GGML_SYSTEM_ARCH: ARM
+-- Including CPU backend
+-- ARM detected
+-- Checking for ARM features using flags:
+-- Using KleidiAI optimized kernels if applicable
+-- Adding CPU backend variant ggml-cpu:  
+-- ggml version: 0.23.0
+-- ggml commit:  bc52a12
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/code/aiagent/lib/.cxx/Release/6r73f1or/arm64-v8a
