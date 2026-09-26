@@ -10,6 +10,9 @@ llama.cpp for fully local GGUF inference.
 - **Persistence**: Conversations are saved locally using Room.
 - **Settings**: Pick your own `.gguf` model file and tune inference parameters.
 
+## Presentation Glimpse
+<img width="1130" height="593" alt="image" src="https://github.com/user-attachments/assets/edd63413-ff5b-402b-9816-e40fdf185c49" />
+
 ## Setup Instructions
 
 ### 1. Download the Model
